@@ -15,6 +15,7 @@ tags: [interview, fullstack, moc, obsidian]
 |--------|---------|
 | `questions/` | Practice view — numbered questions only, **Beginner → Intermediate → Advanced** |
 | `answers/` | Study view — self-contained Obsidian Q&A notes (question embedded + elaborate answer) |
+| `learning/` | Separate tracker for things you want to learn / are currently learning — see [[learning/README\|Learning Tracker MOC]] |
 
 Matching numbers stay aligned: e.g. Q7 in `questions/01-react.md` ↔ Q7 in [[01-react]].
 

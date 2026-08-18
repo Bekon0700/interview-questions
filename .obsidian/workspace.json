@@ -13,12 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "questions/03-nodejs.md",
+                "file": "copies/husnora_content_calendar_200.md",
                 "mode": "preview",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "03-nodejs"
+              "title": "husnora_content_calendar_200"
             }
           }
         ]
@@ -41,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -185,12 +188,18 @@
   },
   "active": "e92403680aec265d",
   "lastOpenFiles": [
-    "questions/06-system-design.md",
+    "copies/husnora_content_calendar_100.md",
+    "copies/husnora_content_calendar_200.md",
+    "agentic-coding-learning-plan.md",
+    "claude-code-features-guide.md",
+    "agentic-coding-learning-plan.md.tmp.20424.3097d5c1e7d4",
+    "answers/01-react.md",
+    "answers/00-javascript.md",
     "questions/03-nodejs.md",
+    "questions/06-system-design.md",
     "2026-07-26.md",
     "Emdadul_Islam_Software_Engineer_Resume_2607_w3.pdf",
     "answers/12-dsa-practical-coding.md",
-    "questions/00-javascript.md",
-    "answers/00-javascript.md"
+    "questions/00-javascript.md"
   ]
 }

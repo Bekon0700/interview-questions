@@ -220,6 +220,8 @@ When a value is used where a boolean is expected (like an `if`), JavaScript conv
 >   name: 'A',
 >   normal() { return this.name; },       // 'A' (called as obj.normal())
 >   arrow: () => this.name,               // uses outer this, not obj
+>   // `this` is lexically captured from the surrounding scope. 
+>   // Calling obj.arrow() does NOT make `this` equal to obj.
 > };
 > ```
 
