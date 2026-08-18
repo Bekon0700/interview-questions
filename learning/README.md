@@ -48,7 +48,8 @@ Per-topic ladder, tracked in the table below: **1d → 3d → 7d → 14d → 30d
 
 | Category | Topic | Status | Last Reviewed | Next Review |
 |----------|-------|--------|----------------|--------------|
-| | | | | |
+| [[message-broker/message-broker\|message-broker]] | [[message-broker/kafka/kafka\|kafka]] | currently-learning | | 2026-08-20 |
+| [[message-broker/message-broker\|message-broker]] | [[message-broker/rabbitmq/rabbitmq\|rabbitmq]] | currently-learning | | 2026-08-20 |
 
 ## Want to Learn (backlog — no folder yet)
 
