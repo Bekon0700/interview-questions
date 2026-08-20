@@ -50,6 +50,7 @@ Per-topic ladder, tracked in the table below: **1d → 3d → 7d → 14d → 30d
 |----------|-------|--------|----------------|--------------|
 | [[message-broker/message-broker\|message-broker]] | [[message-broker/kafka/kafka\|kafka]] | currently-learning | | 2026-08-20 |
 | [[message-broker/message-broker\|message-broker]] | [[message-broker/rabbitmq/rabbitmq\|rabbitmq]] | currently-learning | | 2026-08-20 |
+| [[ci-cd/ci-cd\|ci-cd]] | [[ci-cd/ci-cd-fundamentals/ci-cd-fundamentals\|ci-cd-fundamentals]] | currently-learning | | 2026-08-21 |
 
 ## Want to Learn (backlog — no folder yet)
 
