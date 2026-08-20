@@ -33,5 +33,8 @@ As teams also wanted to ship faster and more reliably, **Continuous Delivery** e
 ## Topics in this Category
 
 - [[ci-cd-fundamentals/ci-cd-fundamentals|CI/CD Fundamentals]] — the core concepts, pipeline stages, and practices shared across any CI/CD tool.
+- [[github-actions/github-actions|GitHub Actions]] — GitHub's native CI/CD platform, built around reusable Marketplace Actions.
+- [[jenkins/jenkins|Jenkins]] — self-hosted, plugin-driven automation server; the long-standing pre-hosted-CI default.
+- [[gitlab-ci/gitlab-ci|GitLab CI]] — GitLab's native CI/CD, built around stages/jobs and deep "one application" DevOps integration.
 
-See [[comparison]] and [[recall]] once this Category has 2+ Topics (e.g. a specific platform like GitHub Actions or Jenkins).
+See [[comparison]] for a feature-by-feature breakdown, and [[recall]] for comparison-style review prompts.
