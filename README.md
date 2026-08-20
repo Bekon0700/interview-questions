@@ -55,6 +55,7 @@ Each answer note also has YAML **frontmatter** (`title`, `topic`, `tags`, `relat
 | 14 | Docker & Deployment | [[questions/14-docker-deployment]] | [[answers/14-docker-deployment]] |
 | 15 | SQL | [[questions/15-sql]] | [[answers/15-sql]] |
 | 16 | MongoDB (deep dive) | [[questions/16-mongodb]] | [[answers/16-mongodb]] |
+| 17 | CI/CD | [[questions/17-ci-cd]] | [[answers/17-ci-cd]] |
 
 > [!note] Obsidian tip
 > Open this folder as an Obsidian vault. Prefer path-prefixed links (`[[answers/00-javascript]]`) because the same filenames also exist under `questions/`.
@@ -85,6 +86,7 @@ Work top-down. Inside each note: Beginner → Advanced.
 13. [[answers/13-testing]] — not on CV; prepare a clear stance
 14. [[answers/14-docker-deployment]] — 2.1GB → 170MB story
 15. [[answers/15-sql]] — PostgreSQL / MySQL on CV
+16. [[answers/17-ci-cd]] — not on CV; likely follow-up to your Docker/deployment story
 
 ### Always in parallel
 - [[answers/08-behavioral]] — prepare 5–6 STAR stories from your CV
